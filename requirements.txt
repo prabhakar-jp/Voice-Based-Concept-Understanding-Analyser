@@ -1,0 +1,11 @@
+streamlit
+openai-whisper
+sentence-transformers
+librosa
+numpy
+pandas
+matplotlib
+reportlab
+soundfile
+torch
+scikit-learn

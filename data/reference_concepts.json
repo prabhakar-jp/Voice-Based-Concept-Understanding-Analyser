@@ -1,0 +1,13 @@
+{
+  "Python": {
+    "reference": "Python is a high-level programming language known for its readability and simplicity. It supports object-oriented programming, web development, artificial intelligence, machine learning, data science, automation and software development."
+  },
+
+  "Java": {
+    "reference": "Java is an object-oriented programming language used for enterprise applications, Android development and web applications."
+  },
+
+  "Machine Learning": {
+    "reference": "Machine learning is a branch of artificial intelligence that enables computers to learn from data without explicit programming."
+  }
+}
